@@ -1,4 +1,5 @@
 <?php
+copy("https://raw.githubusercontent.com/bedjan/w1/main/mdwiki.html", "mdwiki.html");
 copy("https://raw.githubusercontent.com/bedjan/web/main/web.md", "index.md");
 copy("https://raw.githubusercontent.com/bedjan/web/main/navigation.md", "navigation.md");
 copy("https://raw.githubusercontent.com/bedjan/web/main/mm.md", "mm.md");
