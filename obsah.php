@@ -24,6 +24,7 @@ copy("https://raw.githubusercontent.com/bedjan/web/main/rec.md", "rec.md");
 copy("https://raw.githubusercontent.com/bedjan/web/main/manipulace.md", "manipulace.md");
 copy("https://raw.githubusercontent.com/bedjan/web/main/vyziva.md", "vyziva.md");
 copy("https://raw.githubusercontent.com/bedjan/web/main/lecba.md", "lecba.md");
+copy("https://raw.githubusercontent.com/bedjan/web/main/sociologie.md", "sociologie.md");
 copy("https://raw.githubusercontent.com/bedjan/web/main/psychosomatika.md", "psychosomatika.md");
 copy("https://raw.githubusercontent.com/bedjan/web/main/jak_poloha_akne_prozradi_co_mate_v_tele_nemocneho.md", "jak_poloha_akne_prozradi_co_mate_v_tele_nemocneho.md");
 copy("https://raw.githubusercontent.com/bedjan/web/main/hooponopono.md", "hooponopono.md");
