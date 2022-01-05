@@ -15,4 +15,5 @@ copy("https://raw.githubusercontent.com/bedjan/web/main/germanismy.md", "germani
 copy("https://raw.githubusercontent.com/bedjan/web/main/git.md", "git.md");
 copy("https://raw.githubusercontent.com/bedjan/web/main/markdown.md", "markdown.md");
 copy("https://raw.githubusercontent.com/bedjan/web/main/hooponopono.md", "hooponopono.md");
+copy("https://raw.githubusercontent.com/bedjan/web/main/knihy.md", "knihy.md");
 ?>
