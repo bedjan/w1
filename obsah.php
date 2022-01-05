@@ -31,4 +31,8 @@ copy("https://raw.githubusercontent.com/bedjan/web/main/vadim-zeland.md", "vadim
 copy("https://raw.githubusercontent.com/bedjan/web/main/predpony.md", "predpony.md");
 copy("https://raw.githubusercontent.com/bedjan/web/main/zivotopis.md", "zivotopis.md");
 copy("https://raw.githubusercontent.com/bedjan/web/main/radia.md", "radia.md");
+copy("https://raw.githubusercontent.com/bedjan/web/main/nemcina.md", "nemcina.md");
+copy("https://raw.githubusercontent.com/bedjan/web/main/nemecko.md", "nemecko.md");
+copy("https://raw.githubusercontent.com/bedjan/web/main/nemecko_gramatika.md", "nemecko_gramatika.md");
+
 ?>
