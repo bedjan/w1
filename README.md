@@ -2,6 +2,13 @@
 
 # [Web upload](http://www.janbednar.sweb.cz/upload.php)
 
+----
+
+[Markdown soubory](https://github.com/bedjan/web)
+
+[Menu na webu](https://github.com/bedjan/web/blob/main/navigation.md)
+
+----
 
 [Upload.php - Upload souborů na server](https://github.com/bedjan/w1/blob/main/upload.php)
 
