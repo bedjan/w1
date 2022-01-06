@@ -35,5 +35,7 @@ copy("https://raw.githubusercontent.com/bedjan/web/main/radia.md", "radia.md");
 copy("https://raw.githubusercontent.com/bedjan/web/main/nemcina.md", "nemcina.md");
 copy("https://raw.githubusercontent.com/bedjan/web/main/nemecko.md", "nemecko.md");
 copy("https://raw.githubusercontent.com/bedjan/web/main/nemecko_gramatika.md", "nemecko_gramatika.md");
+copy("https://github.com/bedjan/web/blob/main/asertivita_pro_pozemske_andely.md", "asertivita_pro_pozemske_andely.md");
+copy("https://github.com/bedjan/web/blob/main/narcismus_poznamky.md", "narcismus_poznamky.md");
 
 ?>
