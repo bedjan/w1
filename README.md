@@ -1,4 +1,6 @@
-# w1
+# [Web](http://www.janbednar.sweb.cz/)
+
+# [Web upload](http://www.janbednar.sweb.cz/upload.php)
 
 
 [Upload.php - Upload souborů na server](https://github.com/bedjan/w1/blob/main/upload.php)
